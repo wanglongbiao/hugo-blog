@@ -1,0 +1,4 @@
+baseURL = 'https://longbiao.cc'
+languageCode = 'zh-cn'
+title = '木龙的开发笔记'
+theme = 'ananke'
