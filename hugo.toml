@@ -1,4 +1,4 @@
-baseURL = 'https://longbiao.cc'
+baseURL = 'https://blog.lsbc.fun'
 languageCode = 'zh-cn'
-title = '木龙的开发笔记'
+title = '木颜的开发笔记'
 theme = 'ananke'

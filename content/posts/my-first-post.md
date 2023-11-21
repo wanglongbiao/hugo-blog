@@ -5,6 +5,3 @@ draft: true
 ---
 
 hi.
-Loading...
-Test cron * * * * *
-3
