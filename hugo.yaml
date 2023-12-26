@@ -1,0 +1,10 @@
+baseURL: https://blog.lsbc.fun
+languageCode: zh-cn
+params:
+  contact:
+    email: info@example.org
+    phone: +1 202-555-1212
+  subtitle: The Best Widgets on Earth
+title: 龙彪的后花园
+theme: ananke
+# publishDir: $HOME/some-code/www/blog.lsbc.fun
