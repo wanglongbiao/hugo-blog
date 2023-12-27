@@ -7,4 +7,4 @@ params:
   subtitle: The Best Widgets on Earth
 title: 龙彪的后花园
 theme: ananke
-# publishDir: $HOME/some-code/www/blog.lsbc.fun
+publishDir: /home/admin/some-code/www/blog.lsbc.fun
